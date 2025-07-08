@@ -1,3 +1,4 @@
-## this is my readme file
-## hey i'm sathwika reddy 
-## this will be  my first readme file
+## Welcome to git !
+
+- This is comming from a  'dev-adrian'
+-I'm adding this
