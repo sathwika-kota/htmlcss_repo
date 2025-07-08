@@ -1,3 +1,3 @@
-## this is my readme file
-## hey i'm sathwika reddy 
-## this will be  my first readme file
+## Hello everyOne , Welcome to My html and css practise Projects
+
+- Yo , sathwika here!
