@@ -1,3 +1,6 @@
-## Hello everyOne , Welcome to My html and css practise Projects
+## Welcome to git !
 
-- Yo , sathwika here!
+- This is comming from a  'dev-adrian'
+-I'm adding this
+
+        
